@@ -1,0 +1,18 @@
+:root{
+    --c1:#0E0002;
+    --c2:#AABE61;
+    --c3:#CFDB99;
+    --c4:#EADFCB;
+    --c5:#C4B493;
+}
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family: 'Mulish', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6{
+    font-family: 'Playfair Display', serif;
+}
