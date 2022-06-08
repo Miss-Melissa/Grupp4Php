@@ -2,13 +2,9 @@
 
 require_once $_SERVER['DOCUMENT_ROOT'] . '/classes/User.php';
 
-
-
 class DB
 {
-
     public $mysqli;
-
 
     function __construct()
     {
@@ -18,7 +14,6 @@ class DB
 
         $db = new DB();
     }
-
 
     function query($sql, $type = null, $dataArr = [])
     {
