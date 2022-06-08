@@ -14,6 +14,12 @@
     <link href="https://fonts.googleapis.com/css2?family=Mulish:wght@200&family=Playfair+Display&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="./assets/style.css">
 
+    <!-- Styling länkar -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Mulish:wght@200&family=Playfair+Display&display=swap">
+    <link rel="stylesheet" href="./assets/style.css">
+
     <title>Startsida</title>
 </head>
 
