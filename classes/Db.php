@@ -1,15 +1,22 @@
 <?php
 
+require_once $_SERVER['DOCUMENT_ROOT'] . '/classes/User.php';
+
+
 
 class DB
 {
 
     public $mysqli;
 
+
     function __construct()
     {
         $this->mysqli = new mysqli('localhost', 'root', '', 'phpgrupp4')
             or die(mysqli_error($this->mysqli));
+
+
+        $db = new DB();
     }
 
 
